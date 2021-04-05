@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+/.metadata/
+=======
 # Compiled class file
 *.class
 
@@ -21,3 +24,4 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+>>>>>>> 0da2320a0bd7a87c86f229efa2697db066ac80da
